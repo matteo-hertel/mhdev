@@ -1,8 +1,8 @@
 {
-  "name": "bevacqua",
+  "name": "mhdev",
   "version": "1.0.0",
-  "description": "Nicolas Bevacqua",
-  "author": "Nicolas Bevacqua",
+  "description": "Matteo Hertel",
+  "author": "Matteo Hertel",
   "main": "./index.json",
   "scripts": {
     "postinstall": "cat index.json"
