@@ -1,24 +1,24 @@
-# bevacqua
+# MHDev
 
-> Nicolas Bevacqua
+> Matteo Hertel
 
 # install
 
 As a `postinstall` script.
 
 ```bash
-npm install bevacqua
+npm install mhdev
 ```
 
 As a JSON object.
 
 ```js
-console.log(require('bevacqua'));
+console.log(require('mhdev'));
 ```
 
 # credits
 
-[@johnkpaul](https://github.com/johnkpaul/johnkpaul)
+[@bevacqua](https://github.com/bevacqua/bevacqua)
 
 # license
 
